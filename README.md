@@ -1,4 +1,4 @@
-# maruyama3.github.io
+# The Library of maruyama3.github.io
 
 Code4Lib JAPAN 2022 GitHub でつくるウェブサイト
 
