@@ -13,3 +13,6 @@ Code4Lib JAPAN 2022 GitHub でつくるウェブサイト
 
 ## ごあいあつ
 ![IMG_3248](https://user-images.githubusercontent.com/424224/188251800-e7febe34-d2fb-4535-a9c9-e32d2c8e7f8c.JPG)
+
+リンク
+[イベント情報](https://maruyama3.github.io/event)
